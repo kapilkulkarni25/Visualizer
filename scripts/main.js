@@ -70,11 +70,11 @@ function runalgo() {
     case "Merge":
       Merge();
       break;
-    case "Quick":
-      Quick();
+    case "Insertion":
+      Insertion();
       break;
-    case "Heap":
-      Heap();
+    case "Selection":
+      Selection_sort();
       break;
   }
 }

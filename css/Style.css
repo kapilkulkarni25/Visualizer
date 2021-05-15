@@ -37,13 +37,14 @@ nav .array-inputs #a_speed {
   padding: 5% 0%;
 }
 
-nav .array-inputs #a_generate {
+#a_generate {
   background-color: transparent;
   border: none;
   outline: none;
   color: white;
   padding: 4% 0% 0% 0%;
   padding-left: 100px;
+  cursor: pointer;
 }
 
 nav .array-inputs #a_generate:hover {
